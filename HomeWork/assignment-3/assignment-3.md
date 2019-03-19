@@ -27,6 +27,8 @@ For GBN: A sends 1,2,3,4,5,2,3,4,5 and B sends 1,1,1,1,2,3,4,5.<br>
 For SR:  A sends 1,2,3,4,5,2 and B sends 1,3,4,5,2.<br>
 For TCP: A sends 1,2,3,4,5,2 and B sends 2,2,2,2,6.<br>
 <br>
+b. TCP<br>
+<br>
 **P40.**<br>
 a. [1, 6] and [23, 26].<br>
 b. [6, 16] and [17, 22].<br>
